@@ -41,16 +41,11 @@ ${data.usage}
 
 ## License
 This project is covered under ${data.license}
-(https://img.shields.io/badge/license-${data.license}-brightgreen)
+![${data.license}](https://img.shields.io/badge/license-${data.license}-brightgreen)
 
 ---
 
 🏆 
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
 
 ## Contributing
 ${data.contribute}
