@@ -29,14 +29,14 @@ Created using JavaScript,HTML,ES6,Node
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
+
 
 
 ## Installation
 Clone Github Repo - Included are the package.json files to install using Node
 
 ## Usage 
-Type "node index.js" in the console to start prompt. 
+Type "node index.js" in the console to start prompt, answer the questions given. Then check Dist folder for generated README file. 
 
 ---
 
