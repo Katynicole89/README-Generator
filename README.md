@@ -3,8 +3,7 @@
 # README Generator
 ## KatyNicole89
 
-<iframe src="https://drive.google.com/file/d/10cr3jLMO7PTE7HEvil4K5U9HiEP5EkXM/preview" width="640" height="480"></iframe>
-
+![ Demo of Generator](demo.gif) / ! [](demo.gif)
 ## Acceptance Criteria 
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
